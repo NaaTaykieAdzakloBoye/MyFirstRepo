@@ -1,2 +1,7 @@
-So far in this course, I have learned how to collaborate on GitHub by forking repositories, making pull requests, and cloning repos to my local machine. 
-These skills are helping me understand how developers work together on real projects, even from different parts of the world.
+So far in this course,
+I have learned how to collaborate on GitHub by forking repositories, 
+making pull requests, 
+and cloning repos to my local machine. 
+
+These skills are helping me understand how developers work together on real projects,
+even from different parts of the world.
